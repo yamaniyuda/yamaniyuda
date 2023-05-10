@@ -1,6 +1,6 @@
 ## Hi! I'm Aditya 👋
 
-Have 2+ years of experience in building mobile applications. Familiar with mobile development tools and frameworks like Android native with Java or Kotlin, Flutter with Dart, and iOS native with Swift. Have experience in writing clean and maintainable code, conducting the Test-Driven Development process, and implementing clean architecture approaches.
+I've been making applications for 2 years, familiar with frontend technologies such as next js and flutter, but I also have an interest in the backend side. I have experience writing neat code and doing code maintenance.
 
 * 👨🏻‍💻 Software Developer
 * 🔭 I’m currently working on 
