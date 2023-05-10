@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi! I'm Aditya 👋
 
-<!--
-**yamaniyuda/yamaniyuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Have 2+ years of experience in building mobile applications. Familiar with mobile development tools and frameworks like Android native with Java or Kotlin, Flutter with Dart, and iOS native with Swift. Have experience in writing clean and maintainable code, conducting the Test-Driven Development process, and implementing clean architecture approaches.
 
-Here are some ideas to get you started:
+* 👨🏻‍💻 Software Developer
+* 🔭 I’m currently working on 
+  - [kitakale.id](#kitakale.id) 👇🏼
+* 🎯 2023 Goals: Make a contribution to Github everyday
+* 🌱 I’m Currently learning all about `Flutter`, `Next Js`, and `Go`
+* 💬 Lets contact me 🤭
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[email]: yamani:yamaniyuda@gmail.com
+[linkedin]: https://www.linkedin.com/in/yamani-yuda-989300219/
