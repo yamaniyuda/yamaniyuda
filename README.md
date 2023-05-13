@@ -1,4 +1,4 @@
-## Hi! I'm Aditya 👋
+## Hi! I'm YamaniYuda 👋
 
 I've been making applications for 2 years, familiar with frontend technologies such as next js and flutter, but I also have an interest in the backend side. I have experience writing neat code and doing code maintenance.
 
