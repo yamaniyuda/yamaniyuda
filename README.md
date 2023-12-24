@@ -1,6 +1,6 @@
 ## Hi! I'm YamaniYuda 👋
 
-I've been making applications for 2 years, familiar with frontend technologies such as next js and flutter, but I also have an interest in the backend side. I have experience writing neat code and doing code maintenance.
+I've been making applications for 3 years, familiar with frontend technologies such as next js and flutter, but I also have an interest in the backend side. I have experience writing neat code and doing code maintenance.
 
 * 👨🏻‍💻 Software Developer
 * 🎯 2023 Goals: Make a contribution to Github everyday
